@@ -12,14 +12,7 @@ I would love to go back and fix the styling of the whole website. The knowledge 
 
 I would had a "ahh haa!' moment when I first found out about float left.
 
-## Examples:
-Take a look at these couple examples that I have in my own portfolio:
-
-**Palettable:** https://github.com/alecortega/palettable
-
-**Twitter Battle:** https://github.com/alecortega/twitter-battle
-
-**Patch Panel:** https://github.com/alecortega/patch-panel
+#
 
 
 
